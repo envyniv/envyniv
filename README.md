@@ -1,5 +1,6 @@
 ### Laudaæ (Hello There) 👋
 I'm an aspiring Indie Dev. I like open source, AI, videogames and complex-to-mindnumbing systems.
+Linux user, open source is good.
 
 <!--
 **envyniv/envyniv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
