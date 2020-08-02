@@ -1,10 +1,8 @@
-### Hi there 👋
+### Laudaæ (Hello There) 👋
 
 <!--
 **envyniv/envyniv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
-
 - I’m currently working on (Project-Hope)[]
 - I’m currently learning (The Godot Engine)[], Python and HTML/CSS/JS
 - I’m looking to collaborate on Anything that's Open Source
