@@ -12,8 +12,6 @@ Linux user.
 
   daviawesome67@gmail.com
   
-  [funnydidlaugh](https://twitter.com/funnydidlaugh) on Twitter
-  
   [envy](https://www.youtube.com/channel/UCErwEdNhRLN10PUkJXOAbpQ) on YouTube
   
   [EnvyNival](https://gamejolt.com/@EnvyNival) on GameJolt
