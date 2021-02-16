@@ -8,8 +8,8 @@
 I'm an aspiring Indie Dev. I like open source, AI and videogames.
 Linux is good.
 
-- I’m currently working on [Project Hope](Project-Hope), [dpm-qr](dpm-qr) and by extension [denpa-qr](denpa-qr)
-- I’m currently learning [The Godot Engine](godotengine/godot), Python and server-side stuff.
+- I’m currently working on [Project Hope](https://github.com/Project-Hope), [dpm-qr](https://github.com/dpm-qr) and by extension [denpa-qr](https://github.com/denpa-qr)
+- I’m currently learning [The Godot Engine](https://github.com/godotengine/godot), Python and server-side stuff.
 - I’m looking to collaborate on anything that's Open Source
 - How to reach me:
 
