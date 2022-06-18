@@ -23,4 +23,4 @@ I'm an aspiring Indie Dev. I like open source, AI and videogames. Linux is good.
 
 - Logo by envyniv (that's me)
 
-![Metrics](github-metrics.svg)
+<!-- ![Metrics](github-metrics.svg) -->
