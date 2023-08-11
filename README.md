@@ -62,9 +62,7 @@ I'm an aspiring softeng. I like *foss*, AI and videogames. Linux is p-cool.
 
 # How to reach me
 
-<a rel="me" href="https://toot.community/@envyniv">
-![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)
-</a>
+<a rel="me" href="https://toot.community/@envyniv">![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)</a>
 
 [![Peertube](https://img.shields.io/badge/Peertube-orange?logo=youtube&logoColor=white)](https://video.hardlimit.com/c/envyniv)
 
