@@ -37,20 +37,35 @@ I'm an aspiring softeng. I like *foss*, AI and videogames. Linux is p-cool.
 - Game source is [here](https://github.com/envyniv/Project-Hope)
 - Website is [here](https://github.com/envyniv/Project-Hope/tree/pages)
 
-## TF2 Libraries and Gamemodes
+## TF2 Custom Content
 
-### 
-- I'm currently learning [The Godot Engine](https://github.com/godotengine/godot), Python and server-side stuff.
-- I'm looking to collaborate on anything.
-- How to reach me:
+### Libraries
 
-  daviawesome67@gmail.com
+- [Subteam Manager](https://github.com/envyniv/tf_subteam_man)
+- [Friendlyfire Fix](https://github.com/envyniv/tf_vscript_friendlyfire)
+- [give_tf_weapon with weapon dropping](https://github.com/envyniv/give_tf_weapon/tree/fork)
 
-  [envy](https://www.youtube.com/channel/UCErwEdNhRLN10PUkJXOAbpQ) on YouTube
+### Gamemodes
+
+- [Battle Royale](https://github.com/envyniv/tf_br_gamemode)
+- [Close Call](https://github.com/envyniv/tf_cc_gamemode)
+
+### Standalone Maps
+
+## Minetest Mods
+
+# Projects developed during my education career
+
+- [PaguriCablati](https://paguricablati.github.io/)
 
   [EnvyNival](https://gamejolt.com/@EnvyNival) on GameJolt
 
-  envyniv#0180 on Discord
-
 # How to reach me
+
+<a rel="me" href="https://toot.community/@envyniv">
 ![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)
+</a>
+
+[![Peertube](https://img.shields.io/badge/Peertube-orange?logo=youtube&logoColor=white)](https://video.hardlimit.com/c/envyniv)
+
+envyniv on ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
